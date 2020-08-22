@@ -1,0 +1,3 @@
+commands.reducelag.killentities.usage=/killentities <config/all>
+commands.reducelag.killentities.all=For test only
+commands.reducelag.killentities.config=Also for test only
