@@ -1,8 +1,12 @@
 # ReduceLag
 
-A Minecraft mod that trying to reduce server lag like unload some dimensions which are not using and kill some entities.
+A Minecraft mod that trying to reduce server lag like unload some dimensions which are not using and kill some entities when it is too much.
 
-### The mod is still under developing!
+The commands in this mod are just setup and no functions.
+
+Will add the config file in the future.
+
+### This mod is still under development!
 
 ## Welcome to GitHub Pages
 
@@ -27,5 +31,3 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
