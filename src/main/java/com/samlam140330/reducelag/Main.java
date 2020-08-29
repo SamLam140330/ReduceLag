@@ -4,6 +4,7 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 import com.samlam140330.reducelag.commands.KillEntities;
+import com.samlam140330.reducelag.commands.UnloadDimensions;
 import com.samlam140330.reducelag.proxy.CommonProxy;
 import com.samlam140330.reducelag.util.Reference;
 
@@ -52,5 +53,6 @@ public class Main
 	public void serverStarting(FMLServerStartingEvent event)
 	{
 		event.registerServerCommand(new KillEntities());
+		event.registerServerCommand(new UnloadDimensions());
 	}
 }

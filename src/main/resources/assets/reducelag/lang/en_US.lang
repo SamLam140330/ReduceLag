@@ -1,3 +1,6 @@
 commands.reducelag.killentities.usage=/killentities <config/all>
 commands.reducelag.killentities.all=For test only
 commands.reducelag.killentities.config=Also for test only
+commands.reducelag.unloaddimensions.usage=/unloaddimensions <config/all>
+commands.reducelag.unloaddimensions.all=Another test
+commands.reducelag.unloaddimensions.config=Also for test only too
